@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786071208530",
+    "project_id": "quizman-e9d1a",
+    "storage_bucket": "quizman-e9d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786071208530:android:4e2dfc3c3e5e59353d558b",
+        "android_client_info": {
+          "package_name": "com.example.quizman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7u4r1pgQ2HTFheYaFOjh3hdUqc3G96E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
